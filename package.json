@@ -37,7 +37,7 @@
 		"prettier": "^3.3.3",
 		"publint": "^0.2.11",
 		"tiny-glob": "^0.2.9",
-		"tinybench": "^2.9.0",
+		"tinybench": "^3.0.7",
 		"tsconfck": "workspace:^",
 		"tsconfck-2": "npm:tsconfck@^2.1.2",
 		"vitest": "^2.1.2"
